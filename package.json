@@ -1,0 +1,15 @@
+{
+  "name": "pruebas-interfaz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "^4.15.0"
+  }
+}
